@@ -1,0 +1,13 @@
+Python Proje Ödevi
+
+1-) Bir okul(lise) veritabanı tasarlayın.
+2-) En az 5 tablolu olacak ve tüm ilişki türleri kullanarak(bire bir-bire çok-çoka çok) şeklinde tasarım yapılacak.
+3-) Öğrenci, Öğretmen, Bölüm, Sınıf, Şehir, Dersler tabloları barındırılacak. --> isteğe göre ekleme yapabilirsiniz
+4-) Oluşturduğunuz veritabanını bir python projesine bağlayın.
+5-) Proje üzerinde tasarlanmış veritabanı üzerinde ekleme-silme-güncelleme işlemleri yapılacak.
+6-) Proje sonunda GitHub adresinde StudentInformationSystem adıyla kişisel repoya eklenecek.
+7-) Bir word dosyası hazırlayın. Veritabanınızı tanıtın, projenizin ne iş yaptığını, ne gibi teknolojilerden istifade edildiğini belirtin.
+	belge sonunda bir kaynakça olmalıdır.
+	
+D.N: ChatGPT kullanımı yasak, internet araştırması serbest.
+Son Teslim Tarihi: 19.08.2024 Pazartesi - 16:00
